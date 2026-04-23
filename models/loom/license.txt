@@ -1,0 +1,11 @@
+Model Information:
+* title:	Loom
+* source:	https://sketchfab.com/3d-models/loom-506bd89041c649c591fd60dcaf1b7316
+* author:	kusyash (https://sketchfab.com/kusyash)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Loom" (https://sketchfab.com/3d-models/loom-506bd89041c649c591fd60dcaf1b7316) by kusyash (https://sketchfab.com/kusyash) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
